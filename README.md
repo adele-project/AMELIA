@@ -7,9 +7,11 @@ The Hugging face dataset can be found at this link: https://huggingface.co/datas
 
 If you use this dataset, cite us as:
 
+```
 @inproceedings{ameliacalamita2024,
   title={{AMELIA - Argument Mining Evaluation on Legal documents in ItAlian: A CALAMITA Challenge}},
   author={Grundler, Giulia and Galassi, Andrea and Santin, Piera and Fidelangeli, Alessia and Galli, Federico and Palmieri, Elena and Lagioia, Francesca and Sartor, Giovanni and Torroni, Paolo},
   booktitle={Proceedings of the 10th Italian Conference on Computational Linguistics (CLiC-it 2024)},
   year={2024}
 }
+```
